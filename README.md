@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taurussilver201&label=Profile%20views&color=0e75b6&style=flat" alt="taurussilver201" /> </p>
 
-- I'm currently learning **Django, Frontend frameworks, ML etc.**
+- I'm currently learning **Django, Frontend frameworks and ML.**
 
 - 👨‍💻 All of my projects are currently available at [https://github.com/TaurusSilver201?tab=repositories](https://github.com/TaurusSilver201?tab=repositories)
 
