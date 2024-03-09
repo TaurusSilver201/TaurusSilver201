@@ -1,4 +1,5 @@
 ![logo](https://github.com/TaurusSilver201/TaurusSilver201/blob/main/banner.png)
+![Header](./github-header-image.png)
 <h1 align="center">Hi , I'm Tasdiqul Huq</h1>
 <h3 align="center">A diligent Computer Science Engineer from BD.</h3>
 
