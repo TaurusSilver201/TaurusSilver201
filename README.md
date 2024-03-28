@@ -1,8 +1,8 @@
-![logo](https://github.com/TaurusSilver201/TaurusSilver201/blob/main/banner.png)
+![logo](https://raw.githubusercontent.com/TaurusSilver201/TaurusSilver201/main/github-header-image-Tasdiq.png)
 <h1 align="center">Hi , I'm Tasdiqul Huq</h1>
 <h3 align="center">A diligent Computer Science Engineer from BD.</h3>
 
-<img align="right" alt="coding" width="300" src="https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif">
+<img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/f9/13/57/f9135788c6aeeec438abb986f283936c.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taurussilver201&label=Profile%20views&color=0e75b6&style=flat" alt="taurussilver201" /> </p>
 
@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are currently available at [https://github.com/TaurusSilver201?tab=repositories](https://github.com/TaurusSilver201?tab=repositories)
 
-- 📫 How to reach me **tasdiqulhuq@gmail.com** and **www.linkedin.com/in/tasdiqul-huq-062278267**
+- 📫 How to reach me : **tasdiqulhuq@gmail.com** and <a href="https://www.linkedin.com/in/tasdiqul-huq-062278267">LinkedIn</a>
 
 - 📄 My experiences [Graphics Design, Event Management and DIY.]
 
