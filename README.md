@@ -12,7 +12,7 @@
 
 - 📫 How to reach me : **tasdiqulhuq@gmail.com** and <a href="https://www.linkedin.com/in/tasdiqul-huq-062278267">LinkedIn</a>
 
-- 📄 My experiences [Graphics Design, Event Management and DIY.]
+- 📄 My experiences [Event Management, Web Dev, Python Dev.]
 
 
 <p align="left">
