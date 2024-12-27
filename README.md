@@ -8,6 +8,8 @@
 
 - I'm currently working as a Python Developer(T.B. Solutions).
 
+- Sites I am active at : <a href="https://leetcode.com/u/tasdiqulhuq/">LeetCode</a> <a>,</a> <a href="https://www.hackerrank.com/profile/tasdiqulhuq">HackerRank</a>
+ 
 - 👨‍💻 All of my projects are currently available at [https://github.com/TaurusSilver201?tab=repositories](https://github.com/TaurusSilver201?tab=repositories)
 
 - 📫 How to reach me : **tasdiqulhuq@gmail.com** and <a href="https://www.linkedin.com/in/tasdiqul-huq-062278267">LinkedIn</a>
