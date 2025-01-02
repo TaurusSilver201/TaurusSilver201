@@ -16,7 +16,7 @@
 ### About Me
 - 💻 **Current Role:** Python Developer at **T.B. Solutions**
 - 🌐 **Active Platforms:** 
-  [LeetCode](https://leetcode.com/u/tasdiqulhuq/), [HackerRank](https://www.hackerrank.com/profile/tasdiqulhuq)
+  [LeetCode](https://leetcode.com/u/tasdiqulhuq/), [HackerRank](https://www.hackerrank.com/profile/tasdiqulhuq), [CodeSignal](https://learn.codesignal.com/profile/cm59akr0p000bkx9gwyp2szh6)
 - 🛠️ **Projects Repository:** [GitHub Repositories](https://github.com/TaurusSilver201?tab=repositories)
 - 📩 **Reach Me At:** 
   [Email](mailto:tasdiqulhuq@gmail.com), [LinkedIn](https://www.linkedin.com/in/tasdiqul-huq-062278267)
