@@ -1,7 +1,7 @@
 ![logo](https://raw.githubusercontent.com/TaurusSilver201/TaurusSilver201/main/github-header-image-Tasdiqul.png)
 
 <h1 align="center">Hi, I'm Tasdiqul Huq</h1>
-<h3 align="center">Dedicated Computer Science Engineer from Bangladesh</h3>
+<h3 align="center">Backend Developer (Python) | SEO & Web Scraping</h3>
 
 ---
 
