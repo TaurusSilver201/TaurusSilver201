@@ -1,4 +1,4 @@
-![logo](https://raw.githubusercontent.com/TaurusSilver201/TaurusSilver201/main/github-header-image-Tasdiq.png)
+![logo](https://raw.githubusercontent.com/TaurusSilver201/TaurusSilver201/main/github-header-image-Tasdiqul.png)
 <h1 align="center">Hi , I'm Tasdiqul Huq</h1>
 <h3 align="center">A diligent Computer Science Engineer from BD.</h3>
 
