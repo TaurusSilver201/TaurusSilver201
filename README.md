@@ -43,19 +43,15 @@
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" style="width: 50%;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=taurussilver201&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="100%"/>
-    </td>
-    <td align="center" style="width: 50%;">
-      <img src="https://github-readme-stats.vercel.app/api?username=taurussilver201&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" width="100%"/>
+    <td align="center" style="width: 50%;" rowspan=2>
+       <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=taurussilver201&theme=dark&hide_border=true" alt="GitHub Streak" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=taurussilver201&show_icons=true&locale=en&theme=dark&hide_border=true" alt="GitHub Stats" width="100%"/>
     </td>
   </tr>
   <tr>
     <td align="center" style="width: 50%;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=taurussilver201&theme=radical" alt="GitHub Streak" width="100%"/>
-    </td>
-    <td align="center" style="width: 50%;">
-      <img src="https://leetcard.jacoblin.cool/tasdiqulhuq?ext=activity&theme=dark" alt="LeetCode Stats" width="100%"/>
+       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=taurussilver201&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="100%" />
+      <img src="https://leetcard.jacoblin.cool/tasdiqulhuq?ext=activity&ext=activity&theme=dark" alt="LeetCode Stats" width="100%"/>
     </td>
   </tr>
 </table>
