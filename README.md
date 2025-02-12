@@ -51,7 +51,7 @@
   <tr>
     <td align="center" style="width: 50%;">
        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=taurussilver201&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="100%" />
-      <img src="https://leetcard.jacoblin.cool/tasdiqulhuq?ext=activity&ext=activity&theme=dark" alt="LeetCode Stats" width="100%"/>
+      <img src="https://leetcard.jacoblin.cool/tasdiqulhuq?ext=contest" alt="LeetCode Stats" width="100%"/>
     </td>
   </tr>
 </table>
